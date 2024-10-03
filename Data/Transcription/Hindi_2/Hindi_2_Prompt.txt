@@ -1,0 +1,49 @@
+hindi2_001.wav	play the song billi billi using spotify
+hindi2_003.wav	begin naiyo lagda track on spotify
+hindi2_005.wav	put on maan meri jaan song via spotify
+hindi2_007.wav	set spotify to play pyaar hota kayi baar hai song
+hindi2_009.wav	commence the song zinda banda with spotify
+hindi2_011.wav	start playing mahiye jinna sohna using apple music
+hindi2_013.wav	launch the song tere pyar mein via apple music
+hindi2_015.wav	put on jhoome do pathaan song using apple music
+hindi2_017.wav	set apple music to play chilla chilla song
+hindi2_019.wav	commence the song tum kya mile with apple music
+hindi2_021.wav	start playing apna bana le using youtube
+hindi2_023.wav	launch the song besharam rang via youtube
+hindi2_025.wav	put on kesariya song using youtube
+hindi2_027.wav	set youtube to play kushi title song song
+hindi2_029.wav	commence the song arabic kuthu via youtube
+hindi2_031.wav	start playing manike using youtube music
+hindi2_033.wav	launch the song tha via youtube music
+hindi2_035.wav	put on tur kalleyan song using youtube music
+hindi2_037.wav	set youtube music to play vikram pathala pathala lyric song
+hindi2_039.wav	commence the song coke studio with youtube music
+hindi2_041.wav	start playing chola chola full video using google play music
+hindi2_043.wav	launch the song mast nazron se via google play music
+hindi2_045.wav	put on caught up song using google play music
+hindi2_047.wav	set google play music to play galliyan written song
+hindi2_049.wav	commence the song kusu kusu with google play music
+hindi2_051.wav	start playing ik tu hai using soundcloud
+hindi2_053.wav	launch the song the last ride via soundcloud
+hindi2_055.wav	put on raataan lambiyan song using soundcloud
+hindi2_057.wav	set soundcloud to play paramsundari song
+hindi2_059.wav	commence the song ghana kasoota with soundcloud
+hindi2_061.wav	start playing tenu lehenga using jiosaavn
+hindi2_063.wav	launch the song srivalli via jiosaavn
+hindi2_065.wav	put on dil ko karaar aaya song using jiosaavn
+hindi2_067.wav	set jiosaavn to play sakhiyan two point o song
+hindi2_069.wav	combine the song nain bengali with jiosaavn
+hindi2_071.wav	start playing seeti maar using gaana
+hindi2_073.wav	launch the song aath raflaan via gaana
+hindi2_075.wav	put on dil lauta do song using gaana
+hindi2_077.wav	set gaana to play wafa na raas aayee song
+hindi2_079.wav	commence the song saiyaan ji with gaana
+hindi2_081.wav	start playing o saki saki using wynk
+hindi2_083.wav	launch the song dil bechara title track via wynk
+hindi2_085.wav	put on naach meri rani song using wynk
+hindi2_087.wav	set wynk to play taaron ke shehar lofi mix song
+hindi2_089.wav	commence the song mirchi lagi toh with wynk
+hindi2_091.wav	start playing vaaste using wynk music
+hindi2_093.wav	launch the song kya karu via wynk music
+hindi2_095.wav	put on garmi song using wynk music
+hindi2_097.wav	set wynk music to play tum hi aana song

@@ -1,0 +1,50 @@
+telugu_2_000.wav	start playing crazy feeling on spotify
+telugu_2_002.wav	launch uppenantha song on spotify
+telugu_2_004.wav	activate priya raagale by playing it on spotify
+telugu_2_006.wav	play nuvvante naa  nachataka track on spotify
+telugu_2_008.wav	kick off nuvvante naa navvu on spotify
+telugu_2_010.wav	play selavanuko song on apple music
+telugu_2_012.wav	begin telua telua track on apple music
+telugu_2_014.wav	activate bajai bajai by playing it on apple music
+telugu_2_016.wav	play janatha garage track on apple music platform
+telugu_2_018.wav	kick off dhruva dhruva using apple music
+telugu_2_020.wav	play andamaina lokam  song on youtube
+telugu_2_022.wav	begin vennelave vennelave track on youtube
+telugu_2_024.wav	activate jammu rathiri by playing it on youtube
+telugu_2_026.wav	play palike gorinka track on the youtube platform
+telugu_2_028.wav	commence the song aale pilla with youtube
+telugu_2_030.wav	start playing andam hindolam using youtube music
+telugu_2_032.wav	launch the song kaluukovalani via youtube music
+telugu_2_034.wav	put on gundello emundo song via youtube music
+telugu_2_036.wav	set youtube music to play priyatama naa hrudayama song
+telugu_2_038.wav	commence the song gulabi kallu rendu mullu with youtube music
+telugu_2_040.wav	start playing siva putrudu using google play music
+telugu_2_042.wav	launch the song nuvva nena via google play music
+telugu_2_044.wav	put on palle kanneru pedutundo song using google play music
+telugu_2_046.wav	set google play music to play nuvve nuvve song
+telugu_2_048.wav	commence the song next enti with google play music
+telugu_2_050.wav	start playing parehanayya using soundcloud
+telugu_2_052.wav	launch the song vurike chilakaa via soundcloud
+telugu_2_054.wav	put on hello brother using soundcloud
+telugu_2_056.wav	set soundcloud to play meghaalu lekunna song
+telugu_2_058.wav	commence the song chilakamma chitikeyanga with soundcloud
+telugu_2_060.wav	start playing aakaam thaadiyya using jiosaavn
+telugu_2_062.wav	launch the song o vana padithe using jiosaavn
+telugu_2_064.wav	put on pilla nuvvu leni jeevitham song using jiosaavn
+telugu_2_066.wav	set jiosaavn to play kaluukovalani  song
+telugu_2_068.wav	commence the song  daredumdadum with jiosaavn
+telugu_2_070.wav	start playing pachani chilukalu using gaana
+telugu_2_072.wav	launch the song naalo nenena gaana
+telugu_2_074.wav	put on kaluukovalani song using gaana
+telugu_2_076.wav	set gaana to play itu itu ani chitikelu evvarivo song
+telugu_2_078.wav	commence the play ivvu ivvu oka mudhu with gaana
+telugu_2_080.wav	start playing soodu soodu using wynk
+telugu_2_082.wav	launch the song o cheli nuvve na cheli via wynk
+telugu_2_084.wav	put on inji iduppazhagi using wynk
+telugu_2_086.wav	set wynk to play veedokkade  song
+telugu_2_088.wav	commence the song yemaiyindhi vela with wynk
+telugu_2_090.wav	start playing peru theliyani using wynk music
+telugu_2_092.wav	launch the song hayi hayi via wynk music
+telugu_2_094.wav	put on khana khanam  song using wynk music
+telugu_2_096.wav	set wynk music to play kadhile paadham song
+telugu_2_098.wav	commence the song nuvvu nuvvu kadhu with wynk music

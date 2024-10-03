@@ -1,0 +1,50 @@
+hindi2_000.wav	start playing tere vaaste on spotify
+hindi2_002.wav	launch what jhumka song on spotify
+hindi2_004.wav	activate janiye by playing it on spotify
+hindi2_006.wav	play phir aur kya chahiye track on the spotify platform
+hindi2_008.wav	kick off na ready on spotify
+hindi2_010.wav	play o bedardeya song on apple music
+hindi2_012.wav	begin show me the thumka track on the apple music
+hindi2_014.wav	activate deewane by playing it on apple music
+hindi2_016.wav	play kahani suno track on the apple music platform
+hindi2_018.wav	kick off malang sajna using apple music
+hindi2_020.wav	play manike song on youtube
+hindi2_022.wav	begin ghodey pe sawaar track on youtube
+hindi2_024.wav	activate kalapakkara by playing it on youtube
+hindi2_026.wav	play baarish aayi hai track on the youtube platform
+hindi2_028.wav	kick off ratchasa maamaney using youtube
+hindi2_030.wav	play zaalima coca cola song on the youtube music
+hindi2_032.wav	begin pushpa oo bolega ya oo oo bolega track on youtube music
+hindi2_034.wav	activate pushpa saami saami by playing it on youtube music
+hindi2_036.wav	play arabic kuthu video song track on the youtube music platform
+hindi2_038.wav	kick off shaamath using youtube music
+hindi2_040.wav	play bhool bhulaiyaa two title track song on google play music
+hindi2_042.wav	begin kaathuvaakula rendu kaadhal dippam dappam lyric track on google play music
+hindi2_044.wav	activate jai shree ram by playing it on google play music
+hindi2_046.wav	play pathala pathala video track on the google play music platform
+hindi2_048.wav	kick off jaan hai meri song radhe shyam using google play music
+hindi2_050.wav	play kuch baatein song on soundcloud
+hindi2_052.wav	begin maiyya mainu jersy track on soundcloud
+hindi2_054.wav	activate aashiqui aa gayi by playing it on soundcloud
+hindi2_056.wav	play dhoka track on the soundcloud platform
+hindi2_058.wav	kick off najaa using soundcloud
+hindi2_060.wav	play doobey song on jiosaavn
+hindi2_062.wav	begin sabki baaratein aayi track on jiosaavn
+hindi2_064.wav	activate tip tip by playing it on jiosaavn
+hindi2_066.wav	play thoda thoda pyaar track on the jiosaavn platform
+hindi2_068.wav	kick off paani paani using jiosaavn
+hindi2_070.wav	play mann bharryaa two point o song on gaana
+hindi2_072.wav	begin bachpan ka pyar track on gaana
+hindi2_074.wav	activate barsaat ki dhun by playing it on gaana
+hindi2_076.wav	play lut gaye track on the gaana platform
+hindi2_078.wav	kick off nayan using gaana
+hindi2_080.wav	play jannat ve song on wynk
+hindi2_082.wav	begin vaathi coming track on wynk
+hindi2_084.wav	activate pagal nahi hona by playing it on wynk
+hindi2_086.wav	play dil de diya track on the wynk platform
+hindi2_088.wav	kick off khairiyat using wynk
+hindi2_090.wav	play dil tod ke song on wynk music
+hindi2_092.wav	begin judaiyaan track on wynk music
+hindi2_094.wav	activate baby girl by playing it on wynk music
+hindi2_096.wav	play teri aankhon mein track on the wynk music platform
+hindi2_099.wav	kick off illegal weapon two point o using wynk music commence the song feelings with wynk music

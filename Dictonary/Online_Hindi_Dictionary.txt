@@ -1,0 +1,854 @@
+piya  -  P IY1 AH0
+marna  -  M AA1 R N AH0
+didi  -  D IY1 D IY0
+dekhlo  -  D EH1 K L OW0
+chupke  -  CH AH1 P K IY0
+logon  -  L OW1 G AH0 N
+dholna  -  D OW1 L N AH0
+achchhe  -  AE1 CH
+dushmani  -  D UW0 SH M AA1 N IY0
+sse  -  S
+maiyya  -  M AY1 Y AH0
+senawasthi  -  S EH2 N AH0 W AA1 S TH IY0
+mahapujh  -  M AA1 HH AH0 P Y UW2
+nayan  -  N AY1 AH0 N
+waali  -  W AA1 L IY0
+mila  -  M AY1 L AH0
+baadal  -  B AA1 D AH0 L
+thi  -  TH IY1
+gaba  -  G AA1 B AH0
+nai  -  N AY1
+atif  -  AH0 T IY1 F
+bhool  -  B UW1 L
+jis  -  JH IH0 S
+katra  -  K AE1 T R AH0
+narayan  -  N AA0 R AA1 Y AA0 N
+banaaras  -  B AH0 N AA1 R AH0 Z
+chhu  -  CH UW2
+chori  -  K AO1 R IY0
+zaalima  -  Z AA0 L IY1 M AH0
+tumse  -  T AH1 M S IY0
+soch  -  S AA1 K
+maine  -  M EY1 N
+lata  -  L AA1 T AH0
+iq  -  AY1 K Y UW1
+humko  -  HH AH1 M K OW0
+saawan  -  S AA1 W AH0 N
+kalyanji  -  K AH0 L Y AA1 N JH IY0
+darr  -  D AE1 R
+tum  -  T AH0 M
+sanana  -  S AA0 N AE1 N AH0
+nahin  -  N AE1 HH IH0 N
+paani  -  P AA1 N IY0
+lagda  -  L AE1 G D AH0
+oh  -  OW1
+sunta  -  S AH1 N T AH0
+har  -  HH AA1 R
+amar  -  AH0 M AA1 R
+dafa  -  D AA1 F AH0
+dastak(1996)  -  D AE2 S T AE2 K M M G W IY1 T
+kunal  -  K Y UW1 N AH0 L
+radha  -  R AA1 D AH0
+loy  -  L OY1
+ankhiya  -  AE1 NG K IY0 AH0
+youtube  -  Y UW1 T UW2 B
+raaton  -  R AA1 T AH0 N
+geet  -  G IY1 T
+platform  -  P L AE1 T F AO2 R M
+on  -  AO1 N
+hansini  -  HH AA0 N S IY1 N IY0
+maana  -  M AA1 N AH0
+gauri  -  G AO1 R IY0
+mohd  -  M OW1 D
+krishan  -  K R IH1 SH AH0 N
+toh  -  T OW1
+jawaani  -  JH AH0 W AA1 N IY0
+time  -  T AY1 M
+nach  -  N AE1 CH
+chaandni  -  CH AA1 N D N IY0
+shaamath  -  SH AA1 M AH0 TH
+hemant  -  HH IY1 M AH0 N T
+bashar  -  B AH0 SH AA1 R
+chahein  -  CH AE1 HH AY0 N
+kabhi  -  K AE1 B IY0
+am  -  AE1 M
+zara  -  Z AE1 R AH0
+sabki  -  S AE1 B K IY0
+tukde  -  T AH1 K D
+gaana  -  G AA1 N AH0
+deewaani  -  D IY1 W AA2 N IY0
+humsafar  -  HH AH1 M S AH0 F AA2 R
+ka  -  K AA1
+meet  -  M IY1 T
+nigam  -  N IH1 G AH0 M
+aapke  -  AA1 P K
+anandji  -  AH0 N AE1 N JH IY0
+gagan  -  G EY1 G AH0 N
+asha  -  AA1 SH AH0
+lagti  -  L AE1 G T IY0
+full  -  F UH1 L
+pe  -  P EY1
+mast  -  M AE1 S T
+janiye  -  JH AE1 N IH0 Y
+sadhnaabhijeetrim  -  S AE0 D N AA2 B HH IH0 JH IY1 T R IH0 M
+pathala  -  P AH0 TH AE1 L AH0
+darling  -  D AA1 R L IH0 NG
+sajna  -  S AY1 N AH0
+what  -  W AH1 T
+din  -  D IH1 N
+mangeshkar  -  M EY1 NG G IH0 SH K AA2 R
+sangam  -  S AE1 NG G AH0 M
+kho  -  K OW1
+remix  -  R IY1 M IH0 K S
+sili  -  S IY1 L IY0
+pehli  -  P EH1 L IY0
+par  -  P AA1 R
+rait  -  R EY1 T
+rehman  -  R EH1 M AH0 N
+dushman  -  D AH1 SH M AH0 N
+jatin  -  JH AE1 T IH0 N
+safar  -  S AH0 F AA1 R
+gaate  -  G AA1 T
+piyaji  -  P IY0 Y AA1 JH IY0
+of  -  AO1 F
+sun  -  S AH1 N
+ajnabee  -  AE1 JH N AH0 B IY2
+daan  -  D AA1 N
+mkaregi  -  M AH0 K AA0 R EH1 G IY0
+kya  -  K Y AA1
+episode  -  EH1 P IH0 S OW2 D
+shor  -  SH AO1 R
+lahore  -  L AA0 HH AO1 R
+hariharan  -  HH EH2 R IH0 HH EH1 R AH0 N
+saanwali  -  S AA0 N W AA1 L IY0
+melody  -  M EH1 L AH0 D IY0
+in  -  IH0 N
+jaadu  -  JH AA1 D UW0
+ki  -  K IY1
+tip  -  T IH1 P
+janam  -  JH AE1 N AH0 M
+thoda  -  TH OW1 D AH0
+chalte  -  CH AO1 L T
+liye  -  L AY1
+aana  -  AA1 N AH0
+party  -  P AA1 R T IY0
+jharokon  -  Y AA1 R AH0 K AA2 N
+put  -  P UH1 T
+kaha  -  K AA1 HH AH0
+track  -  T R AE1 K
+yeh  -  Y EH1
+diya  -  D IY1 AH0
+mohammad  -  M OW0 HH AA1 M AH0 D
+yaar  -  Y AA1 R
+si  -  S IY1
+dippam  -  D IH1 P AH0 M
+dekhne  -  D EH1 K N IY0
+bapat  -  B AE1 P AH0 T
+hindustani  -  HH IH1 N D UW2 S T AA1 N IY0
+gaye  -  G EY1
+naache  -  N AA1 CH
+tune  -  T UW1 N
+neeraj  -  N IH1 R AY0
+aane  -  AA1 N
+nikla  -  N IH1 K L AH0
+the  -  DH
+pardes  -  P AA1 R D Z
+tamanna  -  T AH0 M AE1 N AH0
+bharosa  -  B AA0 R OW1 S AH0
+tujh  -  T UW1 JH
+ali  -  AA1 L IY0
+nadeem  -  N AH0 D IY1 M
+nida  -  N IY1 D AH0
+jannat  -  JH AE1 N AH0 T
+fire  -  F AY1 ER0
+gaadi  -  G AA1 D IY0
+nawaz  -  N AA1 W AA0 Z
+maasum  -  M AA1 Z AH0 M
+spotify  -  S P AA1 T AH0 F AY2
+suno  -  S UW1 N OW0
+pal  -  P AE1 L
+teesari  -  T IY0 S AA1 R IY0
+quadri  -  K W AA1 D R IY0
+waalon  -  W AA1 L AH0 N
+sen  -  S EH1 N
+mehke  -  M EH1 K
+babul  -  B AA0 B UW1 L
+aanewala  -  AA2 N UW0 AA1 L AH0
+abhijeet  -  AE2 B HH IH0 JH IY1 T
+inhi  -  IH1 N HH IY0
+lage  -  L EY1 JH
+sadhana  -  S AA0 D AE1 N AH0
+kulwant  -  K AH1 L W AH0 N T
+hona  -  HH OW1 N AH0
+aapko  -  AA1 P K OW0
+tarah  -  T EH1 R AH0
+pankaj  -  P AE1 NG K AY2
+kaadhal  -  K AA1 D AH0 L
+commence  -  K AH0 M EH1 N S
+kuch  -  K AH1 CH
+malang  -  M AE1 L AH0 NG
+titled  -  T AY1 T AH0 L D
+vil  -  V IH1 L
+thumka  -  TH AH1 M K AH0
+dosti(old)  -  D AA1 S T IH0 K OW2 L D Z
+baaratein  -  B AA1 R AH0 T AY2 N
+16  -  EH1 S T IY1
+kinna  -  K IH1 N AH0
+aaye  -  EY1
+khaamoshi  -  K AA2 M OW1 SH IY0
+saamaan  -  S AA1 M AA2 N
+roja  -  R OW1 Y AH0
+jeeye  -  JH IY1
+dharmatma  -  D AA0 R M AA1 T M AH0
+raah  -  R AA1
+kalapakkara  -  K AA2 L AA0 P AA0 K AA1 R AH0
+sake  -  S EY1 K
+rakhna  -  R AE1 K N AH0
+halka  -  HH AE1 L K AH0
+ve  -  V IY1
+karen  -  K EH1 R AH0 N
+dhun  -  D AH1 N
+chingari  -  K IY0 NG G AA1 R IY0
+intezar  -  IH1 N T AH0 Z ER0
+manike  -  M AE1 N IH0 K
+balasubramaniam  -  B AE2 L AH0 S UW1 B R AH0 M EY1 N IY0 AH0 M
+brother  -  B R AH1 DH ER0
+ji  -  JH IY1
+ksahir  -  S AH0 HH IH1 R
+duniya  -  D UW0 N IY1 AH0
+sang  -  S AE1 NG
+ehsaan  -  EH1 S AA0 N
+kahani  -  K AH0 HH AA1 N IY0
+shyam  -  SH AY1 AH0 M
+magan  -  M EY1 G AH0 N
+dil  -  D IH1 L
+faakir  -  F AA1 K IH0 R
+hai  -  HH AY1
+sayeed  -  S EY2 IY1 D
+jaise  -  JH EY1 Z
+udhas  -  UW1 D AH0 Z
+dilon  -  D IH1 L AH0 N
+shaam  -  SH AA1 M
+aur  -  AO1 R
+bekhayali  -  B EH0 K AA0 Y AA1 L IY0
+se  -  S EY1
+chaudahveen  -  SH OW0 D AA1 V IY0 N
+saamne  -  S AA1 M N
+bhupendra  -  B UW2 P EH1 N D R AH0
+kar  -  K AA1 R
+khanna  -  K AE1 N AH0
+rang  -  R AE1 NG
+hoon  -  HH UW1 N
+jhumka  -  JH AH1 M K AH0
+shravan  -  SH R EY1 V AH0 N
+akhtar  -  AE1 K T ER0
+kahan  -  K EY1 AH0 N
+sanjivanisunita  -  S AE2 N JH IH0 V AE0 N IH0 Z UW1 N IH0 T AH0
+ya  -  Y AA1
+kehna  -  K EH1 N AH0
+mukharjee  -  M AH0 K AA1 R JH IY0
+raha  -  R AA1 HH AH0
+diye  -  D AY1
+uske  -  AH1 S K
+raat  -  R AA1 T
+to  -  T UW1
+baat  -  B AA1 T
+yahan  -  Y AA1 HH AA0 N
+shailendra  -  SH EY2 L EH1 N D R AH0
+yun  -  Y AH1 N
+rendu  -  R EH1 N D UW0
+ye  -  Y EY1
+phir  -  F ER1
+nagar  -  N EY1 G ER0
+lag  -  L AE1 G
+aashiqana  -  AA2 SH IH0 K AA1 N AH0
+ankhiyon  -  AE1 NG K HH AY2 AH0 N
+shanti  -  SH AE1 N T IY0
+out  -  AW1 T
+disco  -  D IH1 S K OW0
+azmi  -  AE1 Z M IY0
+tha  -  DH AH0
+jeena  -  JH IY1 N AH0
+song  -  S AO1 NG
+alishafootpaath  -  AH0 L IH1 SH AH0 F UH2 T P AA2 TH
+bada  -  B AA1 D AH0
+jhilmil  -  JH IH1 L M AH0 L
+kashmir  -  K AE1 SH M IY0 R
+beeti  -  B IY1 T IY0
+deyloafer  -  D EY1 L OW2 F ER0
+pyarelal  -  P Y EH1 R AH0 L AH0 L
+sanam  -  S AE1 N AH0 M
+kanya  -  K AA1 N Y AH0
+aashiquie  -  AA0 SH IY1 K W IY0
+mastani  -  M AA0 S T AA1 N IY0
+hello  -  HH EH1 L OW0
+kapoor  -  K AH0 P UW1 R
+jeeta  -  JH IY1 T AH0
+baaju  -  B AA1 JH UW0
+hi  -  HH AY1
+yaara  -  Y AA1 R AH0
+kaamchor  -  K AA1 M CH ER0
+prem  -  P R EH1 M
+shehar  -  SH EH1 HH ER0
+mujhse  -  M AH1 JH S
+usha  -  AH1 SH AH0
+mukhde  -  M AH1 K D
+off  -  AO1 F
+ruke  -  R UW1 K
+chaudhveen  -  SH OW0 D V IY1 N
+allah  -  AA1 L AH0
+niga  -  N IY1 G AH0
+playback  -  P L EY1 B AE2 K
+mrityu  -  M R IH1 T Y UW0
+ijazat  -  IH2 Y AA1 Z AA0 T
+ghar  -  G AA1 R
+it  -  IH1 T
+rajinder  -  R AE1 JH IH0 N D ER0
+vaathi  -  V AA1 TH IY0
+hiwda  -  HH Y UW1 D AH0
+rafi  -  R AA1 F IY0
+jersy  -  JH ER1 Z IY0
+jaane  -  JH AA1 N
+alkachahunga  -  AE2 L K AH0 HH AH0 HH AH1 NG G AH0
+goriya  -  G AO0 R IY1 AH0
+jaidev  -  JH EY1 D EH2 V
+gaya  -  G EY1 AH0
+trigger  -  T R IH1 G ER0
+oo  -  UW1
+wari  -  W EH1 R IY0
+bees  -  B IY1 Z
+kabhie  -  K AE1 B IY0
+mera  -  M EH1 R AH0
+gale  -  G EY1 L
+chhoti  -  K OW1 T IY0
+kishore  -  K IH1 SH ER0
+reshma  -  R EH1 SH M AH0
+ajnabi  -  AA0 Y N AA1 B IY0
+ja  -  JH AA1
+honge  -  HH AO1 NG
+tere  -  T EH1 R
+ghum  -  G AH1 M
+rom  -  R AA1 M
+koi  -  K OY1
+kareeb  -  K ER0 IY1 B
+taal  -  T AA1 L
+dum  -  D AH1 M
+dutt  -  D AH1 T
+lakdi  -  L AE1 K D IY0
+reise  -  R IY1 S
+coca  -  K OW1 K AH0
+chain  -  CH EY1 N
+umrao  -  AH1 M R AW0
+kahar  -  K AE1 HH ER0
+noor  -  N UH1 R
+paagal  -  P AA1 G AH0 L
+paudi  -  P AO1 D IY0
+dekha  -  D EH1 K AH0
+alka  -  AE1 L K AH0
+jamming  -  JH AE1 M IH0 NG
+huzoor  -  HH Y UW1 Z UH0 R
+tumko  -  T AH1 M K OW0
+best  -  B EH1 S T
+dhadkan  -  D AA1 D K AH0 N
+kismat  -  K IH1 Z M AE0 T
+ludhianvi  -  L UW0 D IY0 AA1 N V IY0
+duplicate  -  D UW1 P L AH0 K EY2 T
+ashoka  -  AH0 SH OW1 K AH0
+aaja  -  AA1 JH AH0
+dhal  -  D AA1 L
+m  -  EH1 M
+pyaasa  -  P Y AA1 S AH0
+mukherjee  -  M AH0 K ER1 JH IY0
+arre  -  AA1 R
+gulzar  -  G AH1 L Z ER0
+jaipuri  -  JH AH0 P UH1 R IY0
+begin  -  B IH0 G IH1 N
+aayi  -  AA1 Y IY2
+aajkal  -  AA1 JH K AH0 L
+raaz  -  R AA1 Z
+naina  -  N AY1 N AH0
+shakti  -  SH AE1 K T IY0
+haseena  -  HH AH0 S IY1 N AH0
+humraaz  -  HH AH1 M R AA2 Z
+wynk  -  W IH1 NG K
+haay  -  HH EY1
+get  -  G EH1 T
+kuthu  -  K UW1 TH UW0
+muskura  -  M AH0 S K UH1 R AH0
+madhur  -  M AE1 D HH ER0
+yesudas  -  Y IH0 S UW1 D AH0 Z
+shankar  -  SH AE1 NG K AA0 R
+ni  -  N IY1
+is  -  IH1 Z
+aate  -  AA1 T
+samjho  -  S AE1 M JH HH OW0
+kadar  -  K AE1 D ER0
+aath  -  AA1 TH
+set  -  S EH1 T
+ikyaad  -  IH1 K Y AA0 D
+bitaayi  -  B IH0 T AA1 Y IY0
+vanitnagma  -  V AE2 N IH0 T N AE1 G M AH0
+using  -  Y UW1 Z IH0 NG
+start  -  S T AA1 R T
+yesudasaajaa  -  Y EH2 S UW0 D AH0 S AA1 JH AH0
+bala  -  B AA1 L AH0
+leke  -  L IY1 K
+jagjit  -  JH AE1 G JH IH0 T
+bin  -  B IH1 N
+jab  -  JH AE1 B
+dev  -  D EH1 V
+kanchan  -  K AE1 N CH AH0 N
+kavita  -  K AH0 V IY1 T AH0
+koyla  -  K OY1 L AH0
+coming  -  K AH1 M IH0 NG
+meri  -  M EH1 R IY0
+yuhin  -  Y UW1 HH IH1 N
+amir  -  AH0 M IH1 R
+k  -  K EY1
+chalti  -  CH AO1 L T IY0
+cola  -  K OW1 L AH0
+mehbooba  -  M EH2 B UW1 B AH0
+kumar  -  K UW0 M AA1 R
+mela  -  M EH1 L AH0
+anaidahumen  -  AH0 N EY1 D AH0 HH Y UW2 M AH0 N
+achcha  -  AA1 CH AH0
+sheher  -  SH EH1 R
+s  -  EH1 S
+dey  -  D EY1
+shaadi  -  SH AA1 D IY0
+chahiye  -  CH AH0 HH AY1
+love  -  L AH1 V
+lambi  -  L AE1 M B IY0
+jaate  -  JH AA1 T
+dhoondta  -  D UW1 N D T AH0
+salil  -  S AH0 L IH1 L
+milte  -  M IH1 L T
+akela  -  AH0 K EH1 L AH0
+bharryaa  -  B AA2 R Y AA1
+roll  -  R OW1 L
+radhe  -  R EY1 D
+pk  -  P IY1 K EY1
+ban  -  B AE1 N
+waqt  -  W AE1 K T
+baad  -  B AA1 D
+lakshman  -  L AE1 K SH M AH0 N
+doobey  -  D UW1 B IY0
+jaanewaalo  -  JH AA1 N UW0 AH0 L OW0
+mor  -  M AO1 R
+bhupinder  -  B AW1 P AY2 N D ER0
+muqaddar  -  M Y UW1 K AH0 D AA2 R
+kick  -  K IH1 K
+yagnik  -  Y AE1 G N IH0 K
+a  -  EY1
+deep  -  D IY1 P
+jaikishan  -  JH EY1 K IH0 SH AH0 N
+khairiyat  -  K AY1 R IH0 Y AE0 T
+vyar  -  V Y AA1 R
+paanch  -  P AA1 N CH
+sargam  -  S AA1 R G AH0 M
+khile  -  K AY1 L
+pushpa  -  P UH1 SH P AH0
+vaaste  -  V AA1 S T
+mirza  -  M ER1 Z AH0
+initiate  -  IH0 N IH1 SH IY0 EY2 T
+gaaoon  -  G AA0 AW1 N
+nazar  -  N AA0 Z AA1 R
+pagal  -  P EY1 G AH0 L
+tele  -  T EH1 L IY0
+karoge  -  K ER0 OW1 JH
+udit  -  Y UW1 D IH0 T
+rathod  -  R AE1 TH AH0 D
+hue  -  HH Y UW1
+javed  -  JH EY1 V D
+lakhon  -  L AE1 K AH0 N
+gum  -  G AH1 M
+dilbara  -  D IH0 L B AA1 R AH0
+gal  -  G AE1 L
+sultanpuri  -  S AH2 L T AH0 N P UH1 R IY0
+lamhen  -  L AE1 M HH AH0 N
+baatein  -  B AA1 T AY2 N
+pukarta  -  P UW0 K AA1 R T AH0
+pyar  -  P Y AA2 R
+haye  -  HH EY1
+zameen  -  Z AH0 M IY1 N
+chal  -  CH AE1 L
+tod  -  T AA1 D
+activate  -  AE1 K T AH0 V EY2 T
+jaaye  -  JH AA1 EY0
+bataa  -  B AH0 T AA1
+awaara  -  AH0 W AA1 R AH0
+lut  -  L AH1 T
+rangeela  -  R AE1 N JH IY1 L AH0
+hamen  -  HH EY1 M AH0 N
+ready  -  R EH1 D IY0
+lootmaar  -  L UW1 T M AA2 R
+show  -  SH OW1
+waala  -  W AA1 L AH0
+gayi  -  G EY1 IY0
+music  -  M Y UW1 Z IH0 K
+manyam  -  M AA1 N Y AH0 M
+chakraborty  -  CH AE1 K R AH0 B AO2 R T IY0
+jain  -  JH EY1 N
+malik  -  M AA1 L IH0 K
+sitara  -  S IH0 T AA1 R AH0
+bhulaiyaa  -  B UW0 L AY1 Y AA0
+shabbir  -  SH AE1 B IH0 R
+jawan  -  JH AO1 W AA0 N
+gire  -  G AY1 R
+de  -  D EY1
+hone  -  HH OW1 N
+video  -  V IH1 D IY0 OW0
+main  -  M EY1 N
+rolling  -  R OW1 L IH0 NG
+girl  -  G ER1 L
+mohabbat  -  M OW0 HH AE1 B AH0 T
+shariff  -  SH AE1 R IH0 F
+baahon  -  B AA1 HH AH0 N
+sargamanand  -  S AA1 R G AH0 M AH0 N AH0 N D
+kaho  -  K EY1 HH OW0
+judaiyaan  -  JH UW0 D AY1 Y AA2 N
+keh  -  K EH1
+vani  -  V AA1 N IY0
+labelled  -  L EY1 B AH0 L D
+deewane  -  D IY1 W EY2 N
+mili  -  M AY1 L IY0
+roopkumar  -  R UW1 P K UW0 M AA1 R
+maamaney  -  M AA1 M AH0 N IY0
+jairam  -  JH EH1 R AE0 M
+arabic  -  AH0 R AE1 B IH0 K
+by  -  B AY1
+paakizha  -  P AA0 K IY1 Z AH0
+kaathuvaakula  -  K AA2 TH UW0 V AA0 K UW1 L AH0
+kreem  -  K R IY1 M
+jaanewala  -  JH AA1 N UW0 AA1 L AH0
+sapna  -  S AE1 P N AH0
+abhimaan  -  AE0 B HH IY1 M AH0 N
+mere  -  M IH1 R
+maaro  -  M AA1 R OW0
+weapon  -  W EH1 P AH0 N
+bhadke  -  B AA1 D K IY0
+achche  -  AE1 CH
+kaathi  -  K AA1 TH IY0
+desh  -  D EH1 SH
+kaur  -  K AO1 R
+kisi  -  K IH1 S IY0
+di  -  D AY1
+lyric  -  L IH1 R IH0 K
+paan  -  P AA1 N
+wadkar  -  W AO1 D K AA2 R
+saffar  -  S AH0 F AA1 R
+bhosle  -  B AA1 S AH0 L
+ho  -  HH OW1
+gangaa  -  G AA0 NG G AA1
+hoga  -  HH OW1 G AH0
+chaand  -  CH AA1 N D
+motion  -  M OW1 SH AH0 N
+sholay  -  SH OW1 L EY0
+ashraff  -  AE1 SH R AH0 F
+reprise  -  R IY0 P R AY1 Z
+yaaro  -  Y AA1 R OW0
+jo  -  JH OW1
+khoob  -  K UW1 B
+bol  -  B AO1 L
+mile  -  M AY1 L
+hd  -  EY1 CH D IY1
+cue  -  K Y UW1
+ishq  -  IH1 SH K
+dekho  -  D EH1 K OW0
+chunariya  -  CH UW0 N AA0 R IY1 AH0
+udas  -  UW1 D AH0 Z
+rangeele  -  R EY1 NG G IY0 L
+two  -  T UW1
+soundcloud  -  S AW1 N D K L AW1 D
+kaththai  -  K AE1 TH AY1
+san  -  S AE1 N
+agar  -  EY1 G ER0
+paudwal  -  P AO1 D W AO2 L
+hua  -  HH UW1 AH0
+khaike  -  K EY1 K
+illegal  -  IH2 L IY1 G AH0 L
+rahoon  -  R AH0 HH UW1 N
+feelings  -  F IY1 L IH0 NG Z
+majrooh  -  M AE1 JH R UW0
+badi  -  B AA1 D IY0
+bheegey  -  B IY1 JH IY0
+bina  -  B IY1 N AH0
+darmiyaan  -  D AA1 R M IY0 Y AA2 N
+boby  -  B OW1 B IY0
+with  -  W IH1 TH
+title  -  T AY1 T AH0 L
+banjara  -  B AA0 N Y AA1 R AH0
+hridaynaath  -  HH R IH1 D EY2 N AA1 TH
+letter  -  L EH1 T ER0
+lucky  -  L AH1 K IY0
+ratchasa  -  R AE1 CH AH0 S AH0
+indeewar  -  IH2 N D IY1 W AO1 R
+mohdne  -  M OW1 D N IY0
+saajan  -  S AA1 JH AH0 N
+lagayi  -  L AA0 G AA1 Y IY0
+play  -  P L EY1
+nasha  -  N AA1 SH AH0
+khat  -  K AA1 T
+kohli  -  K OW1 L IY0
+hasrat  -  HH AE1 S R AH0 T
+bhari  -  B AA1 R IY0
+sikandar  -  S IH1 K AH0 N D AA2 R
+lawaaris  -  L AH0 W AO1 R IH0 S
+guddi  -  G UW1 D IY0
+maaye  -  M EY1
+sanubabu  -  S AE1 N Y AH0 B AE2 B Y UW0
+abhi  -  AH0 B HH AY1
+likhe  -  L AY1 K
+deewani  -  D IY1 W AA1 N IY0
+dost  -  D AA1 S T
+minmini  -  M IY0 N M IY1 N IY0
+tu  -  T UW1
+yogesh  -  Y OW1 G EH0 SH
+mainu  -  M EY1 N UW2
+kahi  -  K AA1 HH IY0
+singh  -  S IH1 NG
+haina  -  HH AY1 N AH0
+j  -  JH EY1
+aksar  -  AE1 K S ER0
+awaaz  -  AH0 W AA1 Z
+manta  -  M AE1 N T AH0
+geeta  -  JH IY1 T AH0
+swarnalatasayeed  -  S W AO1 R N AH0 L AE2 T AH0 S EY2 D
+aarti  -  AA1 R T IY2
+kitna  -  K IH1 T N AH0
+zakhm  -  Z AE1 K M
+sitare  -  S IY0 T AA1 R IY0
+randa  -  R AE1 N D AH0
+ram  -  R AE1 M
+bindiya  -  B IH1 N D IH0 Y AH0
+deewana  -  D IY2 W AA1 N AH0
+bedardeya  -  B EH0 D AA0 R D EY1 AH0
+my  -  M AY1
+khaiyyaam  -  K AY1 Y AA2 M
+paudwaljolly  -  P AO0 D W AO1 L JH AH0 L IY0
+pyaar  -  P Y AA1 R
+baby  -  B EY1 B IY0
+karz  -  K AA1 R Z
+nahi  -  N AA1 HH IY0
+saami  -  S AA1 M IY0
+aap  -  AA1 P
+dhoka  -  D OW1 K AH0
+jani  -  JH AE1 N IY0
+jai  -  JH AY1
+kickstart  -  K IH1 K S T AA2 R T
+jao  -  JH AW1
+amit  -  AH0 M IH1 T
+kaun  -  K AO1 N
+aisa  -  AY0 IY1 S AH0
+p  -  P IY1
+mein  -  M IY1 N
+ladka  -  L AE1 D K AH0
+kaifi  -  K EY1 F IY0
+kab  -  K AE1 B
+jaan  -  Y AA1 N
+khushi  -  K UW1 SH IY0
+haseenon  -  HH AH0 S IY1 N AH0 N
+i  -  AY1
+genda  -  JH EH1 N D AH0
+pehla  -  P EH1 L AH0
+google  -  G UW1 G AH0 L
+raina  -  R EY1 N AH0
+om  -  AO1 M
+tera  -  T EH1 R AH0
+kahoon  -  K AH0 HH UW1 N
+saathi  -  S AA1 TH IY0
+humne  -  HH AH1 M
+parche  -  P AA1 R CH
+laxmikant  -  L AE1 K S M AH0 K AH0 N T
+yes  -  Y EH1 S
+dosti  -  D AA1 S T IY0
+itna  -  IH1 T N AH0
+rao  -  R AW1
+shaayar  -  SH AA1 Y AA2 R
+spin  -  S P IH1 N
+khilone  -  K IH0 L OW1 N
+hain  -  HH EY1 N
+for  -  F AO1 R
+paudwalkhwaabon  -  P AO1 D W AO2 K W AA2 K AH0 B AA0 N
+re  -  R EY1
+ishaare  -  AY1 SH AA0 R
+milind  -  M IH1 L IH0 N D
+karte  -  K AA1 R T
+baarish  -  B AA1 R IH0 SH
+tute  -  T UW1 T
+dikhai  -  D IH0 K AY1
+kasmein  -  K AE1 S M AY0 N
+mann  -  M AE1 N
+jaoon  -  JH AW1 N
+bulalo  -  B UW0 L AA1 L OW0
+tujhse  -  T UW1 JH S
+raamlaxman  -  R AA1 M L AE2 K S M AH0 N
+manzil  -  M AE1 N Z AH0 L
+jale  -  JH EY1 L
+nazrein  -  N AE1 Z R AY0 N
+saal  -  S AA1 L
+sawaar  -  S AO1 AA0 R
+mujhe  -  M Y UW1 JH
+sameer  -  S AA2 M IH1 R
+hota  -  HH OW1 T AH0
+khuda  -  K UW1 D AH0
+nazron  -  N AE1 Z R AH0 N
+laga  -  L AA1 G AH0
+banno  -  B AE1 N OW0
+ladki  -  L AE1 D K IY0
+hawa  -  HH AO1 W AH0
+hont  -  HH AA1 N T
+phoolon  -  F UW1 L AH0 N
+jaunga  -  JH AO1 NG G AH0
+lagne  -  L EY1 N Y
+launch  -  L AO1 N CH
+yagnikchowdhury  -  Y AE1 G N IH0 K SH ER0 IY0
+devar  -  D IH0 V AA1 R
+lalit  -  L AH0 L IY1 T
+neele  -  N IY1 L
+story  -  S T AO1 R IY0
+teri  -  T EH1 R IY0
+aaj  -  AA1 JH
+pyaro  -  P Y AA1 R OW0
+ashakhaak  -  AE1 SH AH0 K HH AA2 K
+preet  -  P R IY1 T
+point  -  P OY1 N T
+jeewan  -  JH IY1 W AA0 N
+dena  -  D IY1 N AH0
+roke  -  R OW1 K
+anjaani  -  AA0 N Y AA1 N IY0
+manhar  -  M AE1 N HH ER0
+bhosledur  -  B AA1 S AH0 L D ER0
+wo  -  W OW1
+hero  -  HH IH1 R OW0
+bhupindermeri  -  B UW2 P IH0 N D ER0 M EH1 R IY0
+up  -  AH1 P
+label  -  L EY1 B AH0 L
+kiya  -  K IY1 AH0
+taqi  -  T AE1 K IY0
+anu  -  AA1 N UW0
+bheegi  -  B IY1 JH IY0
+anjaan  -  AA0 N Y AA1 N
+paanv  -  P AA1 N V
+bhej  -  B EY1
+gupt  -  G AH1 P T
+me  -  M IY1
+maachis  -  M AA1 CH IH0 S
+uditmahendra  -  UW0 D IH2 T M AH0 HH EH1 N D R AH0
+bakshi  -  B AE1 K SH IY0
+khwaab  -  K W AA1 B
+phool  -  F UW1 L
+meer  -  M IY1 ER0
+intejaar  -  IH1 N T AH0 Y AA2 R
+haste  -  HH EY1 S T
+d  -  D IY1
+ghungte  -  G AH1 NG T
+hridaynath  -  HH R IH1 D EY2 N AH0 TH
+tumhe  -  T AH1 M
+kati  -  K EY1 T IY0
+zindagi  -  Z IH0 N D AA1 G IY0
+vijayetamil  -  V IY0 JH EY0 EH1 T AH0 M AH0 L
+hum  -  HH AH1 M
+ghodey  -  G OW1 D IY0
+lagane  -  L AA0 G AA1 N EY0
+patang  -  P AE1 T AH0 NG
+sanu  -  S AA1 N UW0
+kali  -  K AA1 L IY0
+ganjawala  -  G AA0 N Y AA0 W AA1 L AH0
+beechmein  -  B IY1 CH M AY2 N
+wohi  -  W OW1 HH IY0
+judaai  -  JH UW0 D AA1 IY0
+mitwa  -  M IH1 T W AH0
+apple  -  AE1 P AH0 L
+gali  -  G AA1 L IY0
+junglie  -  JH AH1 NG L IY0
+mukesh  -  M Y UW2 K EH1 SH
+jainmehndi  -  JH EY1 N M EH2 N D IY0
+arjay  -  AA1 R JH EY0
+naam  -  N AA1 M
+se(male)  -  S EH1 M AH0 L IY2
+latasukhawinder  -  L AE2 T AH0 S AH1 K HH AH0 W IH2 N D ER0
+jiosaavn  -  JH IY0 OW1 S AA0 V N
+khaab  -  K AA1 B
+mhare  -  M HH EH1 R
+baadshah  -  B AA1 D SH AH0
+aashiqui  -  AA0 SH IY1 K W IY0
+jamal  -  JH AH0 M AA1 L
+aa  -  EY2 EY1
+hemlata  -  HH EH0 M L AA1 T AH0
+barsaat  -  B AA1 R S AA2 T
+gaata  -  G AA1 T AH0
+annu  -  AE1 N UW0
+suhana  -  S UW0 HH AA1 N AH0
+dilip  -  D IH1 L IH0 P
+karega  -  K AA0 R EY1 G AH0
+chhaaye  -  CH AA1 HH EY0
+arey  -  EH1 R IY0
+mausam  -  M AW1 S AH0 M
+ko  -  K OW1
+pamela  -  P AE1 M AH0 L AH0
+aaisi  -  AA0 IY1 S IY0
+duje  -  D UW1 JH
+shreya  -  SH R EY1 AH0
+mujh  -  M AH1 JH
+yaad  -  Y AA1 D
+playing  -  P L EY1 IH0 NG
+(happy)  -  SH AE1 P IY0 D
+shauq  -  SH AO1 K
+na  -  N AA1
+tootey  -  T UW1 T IY0
+chanda  -  CH AE1 N D AH0
+jeene  -  JH IY1 N
+ravindra  -  R AH0 V IH1 N D R AH0
+aaftab  -  AA1 F T AE2 B
+jhim  -  JH IY1 M
+shree  -  SH R IY1
+lagdi  -  L AE1 JH D IY0
+krishnamurthy  -  K R IH1 SH N AH0 M ER2 TH IY0
+naraz  -  N AA1 R AA0 Z
+mod  -  M AA1 D
+kahin  -  K AE1 HH IH0 N
+sitaron  -  S IH1 T ER0 AA0 N
+sunn  -  S AH1 N
+jaano  -  JH AA1 N OW0
+tujhe  -  T UW1 JH
+hari  -  HH AA1 R IY0
+ghoshal  -  G OW1 SH AH0 L
+bhi  -  B IY1
+ek  -  EH1 K
+aankhon  -  AA1 NG K HH AH0 N
+ghulam  -  G Y UW1 L AE0 M
+shararat  -  SH EH1 R AH0 R AA2 T
+pukaar  -  P Y UW0 K AA1 R
+najaa  -  N AA0 Y AA1
+purani  -  P UH0 R AA1 N IY0
+sona  -  S OW1 N AH0
+bahti  -  B AA1 T IY0
+r  -  AA1 R
+rampur  -  R AE1 M P ER0
+kahaani  -  K AA2 HH AA1 N IY0
+masti  -  M AE1 S T IY0
+saath  -  S AA1 TH
+fazli  -  F AE1 Z L IY0
+burman  -  B ER1 M AH0 N
+dappam  -  D AE1 P AH0 M
+bolega  -  B OW0 L EY1 G AH0
+boss  -  B AO1 S
+make  -  M EY1 K
+andekhi  -  AE0 N D EH1 K IY0
+lamhe  -  L AE1 M HH IY0
+sonu  -  S OW1 N UW0
+do  -  D UW1
+rahe  -  R EY1 HH
+chhaiya  -  CH AY1 Y AH0
+beimaan  -  B AY1 M AA0 N
+o  -  OW1
+loote  -  L UW1 T
+chala  -  CH AA1 L AH0
+gam  -  G AE1 M
+bachpan  -  B AA1 K P AH0 N
+anuradha  -  AA0 N UH0 R AA1 D AH0
+bana  -  B AE1 N AH0
+manna  -  M AE1 N AH0
+shiv  -  SH IH1 V
+ke  -  K
